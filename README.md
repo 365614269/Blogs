@@ -1,2 +1,2 @@
 # Blogs
-我个人的技术博客，记录每天做的事情，会日更。
+My personal daily technical blog, updated every weekday.
